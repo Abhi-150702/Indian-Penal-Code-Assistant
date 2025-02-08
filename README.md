@@ -21,16 +21,16 @@
 
 # Technologies Used
   # Backend
-  - SQLite: For storing query history, answers, and references.
-  - Python: Core programming language.
-  - LangChain: Used for chaining AI model queries and database operations.
-  - Pinecone DB: For efficient vector-based retrieval of embeddings.
+  - ```SQLite```: For storing query history, answers, and references.
+  - ```Python```: Core programming language.
+  - ```LangChain```: Used for chaining AI model queries and database operations.
+  - ```Pinecone DB```: For efficient vector-based retrieval of embeddings.
 
   # Frontend
-  - Streamlit: For building a user-friendly, interactive interface.
+  - ```Streamlit```: For building a user-friendly, interactive interface.
 
   # AI Model 
-  - LLaMA 3: Powered by Ollama, providing advanced natural language processing capabilities.
+  - ```LLaMA 3```: Powered by Ollama, providing advanced natural language processing capabilities.
 
 
 # Usage
@@ -48,8 +48,8 @@
 
 # Contact
   For queries, feel free to reach out:
-  - Author: Abhishek Kumbharde
-  - Email: abhikumbharde@gmail.com
+  - Author: ```Abhishek Kumbharde```
+  - Email: ```abhikumbharde@gmail.com```
   
 
 # Acknowledgments
