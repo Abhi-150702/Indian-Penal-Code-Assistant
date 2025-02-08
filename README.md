@@ -49,7 +49,7 @@
 # Contact
   For queries, feel free to reach out:
   - Author: ```Abhishek Kumbharde```
-  - Email: ```abhikumbharde@gmail.com```
+  - Email: abhikumbharde@gmail.com
   
 
 # Acknowledgments
